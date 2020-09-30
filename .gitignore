@@ -83,4 +83,4 @@ local.properties
 hs_err_pid*
 
 # do not push testfile
-search-engine/src/Test.java
+src/Test.java
